@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace 'com.rockcity.game'
+    namespace 'com.rockcity.app'
     compileSdk 36
 
     defaultConfig {
-        applicationId "com.rockcity.game"
+        applicationId "com.rockcity.app"
         minSdk 24
         targetSdk 36
         versionCode 2

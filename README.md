@@ -2,7 +2,7 @@
 
 Thin Android WebView wrapper around the live Rockcity website.
 
-- **Package:** `com.rockcity.game`
+- **Package:** `com.rockcity.app`
 - **App name:** Rockcity
 - **Live URL loaded:** https://nnamdinwali.github.io/rockcity/
 

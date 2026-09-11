@@ -1,4 +1,4 @@
-package com.rockcity.game;
+package com.rockcity.app;
 
 import android.annotation.SuppressLint;
 import android.graphics.Bitmap;
